@@ -1,2 +1,2 @@
 # hogwarts-sorting-hat
-A Hogwarts House sorting quiz written in Python, inspired by the magical Sorting Hat.
+A magical Python program that sorts users into their Hogwarts House based on a series of personality questions, inspired by the famous Sorting Hat from the Harry Potter universe. Includes tiebreakers, emojis, and a whimsical vibe.
